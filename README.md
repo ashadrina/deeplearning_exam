@@ -6,3 +6,8 @@ Deep dream source: https://github.com/google/deepdream/blob/master/dream.ipynb
 <br> TensorFlow implementation:  https://github.com/anishathalye/neural-style 
 
 Disclaimer: source code and articles used for educational purposes only
+
+---------------------------
+"BUILDING HIGH-LEVEL FEATURES USING LARGE SCALE UNSUPERVISED LEARNING"
+Source: http://research.google.com/pubs/pub38115.html
+Disclaimer: source code and articles used for educational purposes only
